@@ -20,8 +20,6 @@ catalogue==2.0.10
 certifi==2023.11.17
 cffi==1.16.0
 charset-normalizer==3.3.2
-ChatterBot==1.0.4
-chatterbot-corpus==1.2.0
 click==8.1.7
 cloudpathlib==0.16.0
 colorama==0.4.6
@@ -132,8 +130,6 @@ prometheus-client==0.19.0
 prompt-toolkit==3.0.41
 protobuf==4.21.12
 psutil==5.9.6
-psycopg2==2.9.9
-psycopg2-binary==2.9.8
 pure-eval==0.2.2
 pycparser==2.21
 pydantic==2.7.0
